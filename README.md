@@ -1,134 +1,119 @@
 <div align="center">
 
-# 👋 Vanakkam, I'm Nirubhama Rani 💖
+# 👋 Hello, I'm Nirubhama Rani
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=750&lines=Future+Software+Developer+🚀;React+%7C+PowerApps+%7C+Automation+⚡;தமிழ்+Ponnu+in+Tech+💻;Eat+Sleep+Code+Repeat+😎" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;React+Developer+%7C+Automation+Enthusiast+%E2%9A%A1;Building+Projects+with+Creativity+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A" />
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-5a0d7b8d-8b5f-4c89-bc4d-0e10f0d7f5f5.gif" width="700"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/213911167-25c9f5f5-7f04-4f5d-9f12-f4a8c3e2f95b.gif">
 
-✨ Passionate about coding and smart solutions  
-💻 Interested in React, PowerApps & Automation  
-🚀 Building cool projects with modern tech  
-🎧 Music + Coding = Heaven  
-☕ Turning coffee into code daily  
+- 💻 Passionate about software development and automation  
+- ⚡ Skilled in React, PowerApps, SharePoint & Power Automate  
+- 🌱 Currently learning modern web technologies  
+- 🎯 Focused on building impactful and scalable applications  
+- ☕ Coffee + Code = Productive Day  
 
 <br><br><br><br><br>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cs,js,react,html,css,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,cs,js,react,html,css,mysql,git,vscode" />
 
 </div>
 
 ---
 
-# 😂 Tamil Developer Meme Zone
-
-<div align="center">
-
-<img src="https://i.imgflip.com/65efzo.gif" width="350"/>
-
-### 🧑‍💻 Me after fixing one bug:
-## "Naan oru thadava sonna... nooru thadava sonna madhiri!" — Jayam Ravi 😎🔥
-
-</div>
-
----
-
-# ⚡ Developer Life
+## 💻 Developer Workflow
 
 ```javascript
-while(alive){
-   eat();
-   code();
-   sleep();
-   repeat();
+class Developer {
+    constructor() {
+        this.name = "Nirubhama Rani";
+        this.role = "Software Developer";
+        this.skills = ["React", "JavaScript", "PowerApps"];
+    }
+
+    code() {
+        return "Building innovative solutions 🚀";
+    }
 }
+
+const me = new Developer();
+console.log(me.code());
 ```
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌈 Contribution Graph
+## 🌟 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Snake Eating Contributions
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=8"/>
 
 </div>
 
 ---
 
-# 🎵 Coding Mood
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+🔹 Full Stack Development  
+🔹 Automation Solutions  
+🔹 UI/UX Improvement  
+🔹 Scalable Web Applications  
 
 </div>
 
 ---
 
-# 🔥 Fun Facts
-
-<div align="center">
-
-🐞 Bug creator → Bug fixer  
-🌙 Night coding expert  
-🎧 Lo-fi + Coding addict  
-😎 Stack Overflow is my best friend  
-
-</div>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -137,8 +122,6 @@ while(alive){
 
 <div align="center">
 
-## ✨ "Code panna mass ah pannanum!" ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=140&section=footer"/>
 
 </div>
